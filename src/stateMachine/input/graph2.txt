@@ -1,0 +1,18 @@
+A C a
+A E b
+B B a
+B E b
+C B a
+C G b
+D F a
+D E b
+E D c
+F F a
+F E b
+G F a
+G E b
+G D c
+initnode = A
+B #
+C #
+F #
